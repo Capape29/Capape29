@@ -7,7 +7,7 @@ Software Engineer focused on **Frontend Development**, web architectures, and **
 ### 🚀 About Me
 
 * 🎓 Systems Engineering Student at **Universidad Industrial de Santander (UIS)** (9th Semester).
-* 💼 Frontend Developer working on real-world products like **Bienamar** & **Volteapp** at Kiskasoft.
+* 💼 Frontend Developer
 * 🎯 Currently sharpening my skills in **JavaScript** & learning **React**.
 * 🐧 Linux enthusiast with background knowledge in shell scripting, networks, and cybersecurity.
 
