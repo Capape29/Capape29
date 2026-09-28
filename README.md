@@ -36,16 +36,7 @@ Software Engineer focused on **Frontend Development**, web architectures, and **
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Capape29&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Camilo's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capape29&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilopalacioperez/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Cholasbegambre@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cholasbegambre@gmail.com)
